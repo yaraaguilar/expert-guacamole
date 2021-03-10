@@ -1,8 +1,44 @@
-mark {
-    background-color: sandybrown;
+mark 
+{
+    background-color: lavender;
     color: black;
-         }
+}
 
-body {
-           background-color: honeydew;
-    }
+body 
+{
+           background-color: aliceblue;
+}
+h1 
+{
+  font-family: "Monaco","Courier New", monospace;
+  font-style: oblique;
+}
+h2
+{
+    font-family:cursive;
+    font-style: normal;
+}
+span
+{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
+}
+a 
+{
+    font-family:'Courier New', Courier, monospace;
+    color:lightseagreen;
+    font-weight:bolder;
+}
+div
+{
+    font-family: "Monaco", "Courier New", monospace;
+    font-size: smaller;
+    color:mediumpurple;
+}
+
+img {
+    width: 200px;
+    height: 300px;
+    object-fit: cover;
+    float:right;margin-left:200px;
+
+  }
