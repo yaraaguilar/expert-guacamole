@@ -76,3 +76,9 @@ document.getElementById("final").onclick = () =>
 {
     alert("oh, hi there! you must have clicked on me by accident, I do not send you to any link!");
 }
+
+document.getElementById("greetings").onclick = () =>
+{
+    const userInput = prompt("Hey, what's your name?");
+    alert("Well, " + userInput + ", remember, even if the past has great moments, you must never linger for too long with it, for the past cannot be changed. For now, " + userInput + ", look forward, for the future awaits. You are amazing, so keep up the spectacular effort! Lots of love, the developer. <3");
+}
