@@ -1,0 +1,28 @@
+{
+  "name": "audio_recorder",
+  "version": "1.0.0",
+  "description": "Records audio on my computer.",
+  "main": "index.js",
+  "dependencies": {
+    "bluebird": "^3.7.2",
+    "node-audiorecorder": "^2.2.0",
+    "osx-audio": "^1.0.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaraaguilar/expert-guacamole.git"
+  },
+  "keywords": [
+    "audio"
+  ],
+  "author": "Yara Aguilar",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaraaguilar/expert-guacamole/issues"
+  },
+  "homepage": "https://github.com/yaraaguilar/expert-guacamole#readme"
+}
