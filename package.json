@@ -6,6 +6,7 @@
   "dependencies": {
     "bluebird": "^3.7.2",
     "node-audiorecorder": "^2.2.0",
+    "node-record-lpcm16": "^1.0.1",
     "osx-audio": "^1.0.0"
   },
   "devDependencies": {},
