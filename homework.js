@@ -6,7 +6,7 @@ screenshot().then((img) => {
 }).catch((err) => {
   // ...
 })
- 
+
 screenshot({format: 'png'}).then((img) => {
   // img: Buffer filled with png goodness
   // ...
