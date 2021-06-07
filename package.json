@@ -1,12 +1,14 @@
 {
-  "name": "audio_recorder",
+  "name": "audio-recorder",
   "version": "1.0.0",
   "description": "Records audio on my computer.",
   "main": "index.js",
   "dependencies": {
     "bluebird": "^3.7.2",
     "node-audiorecorder": "^2.2.0",
-    "osx-audio": "^1.0.0"
+    "node-record-lpcm16": "^1.0.1",
+    "osx-audio": "^1.0.0",
+    "screenshot-desktop": "^1.12.3"
   },
   "devDependencies": {},
   "scripts": {
